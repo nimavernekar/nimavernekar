@@ -10,9 +10,9 @@
 - 🚀 Passionate about: Cloud architectures, geospatial analytics, and ML-powered data solutions
 - ✨ Fun fact: My master's thesis achieved R²: 0.9999 accuracy for particle positioning models
 -  When I’m not optimizing SQL queries or designing cloud architectures, you’ll find me:  
-- 🏁 Analyzing F1 telemetry data   
-- 🎨 Painting abstract tech art 
-- 🧶 Knitting while debugging (yarn doesn’t throw exceptions!) 
+   - 🏁 Analyzing F1 telemetry data   
+   - 🎨 Painting abstract tech art 
+   - 🧶 Knitting while debugging (yarn doesn’t throw exceptions!) 
 
 ---
 
