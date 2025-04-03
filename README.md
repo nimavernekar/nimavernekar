@@ -1,14 +1,14 @@
 ##  Hello, I'm Nimisha! 👋
 
-**Data Engineer** | **Cloud Architect** | **F1 Data Enthusiast** | **Multidisciplinary Creator**  
+**Data Engineer** | **Building ETL solutions** | **F1 Data Enthusiast** | **Multidisciplinary Creator**  
 
 ---
 
 ## 👩‍💻 About Me  
 - 😄 Pronouns: She/Her
 - 🔭 Currently: Data Engineer building petabyte-scale ETL systems
-- 🚀 Passionate about: Cloud architectures, geospatial analytics, and ML-powered data solutions
-- ✨ Fun fact: My master's thesis achieved R²: 0.9999 accuracy for particle positioning models
+- 🚀 Passionate about: Cloud architectures, data analytics, and ML-powered data solutions
+- ✨ Fun fact: My master's thesis achieved R²: 0.9999 accuracy for particle positioning models 
 -  When I’m not optimizing SQL queries or designing cloud architectures, you’ll find me:  
    - 🏁 Analyzing F1 telemetry data   
    - 🎨 Painting abstract tech art 
