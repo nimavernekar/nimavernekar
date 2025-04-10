@@ -35,9 +35,9 @@
 - **Power BI Dashboards**: Visualized JIRA metrics (35% efficiency gain)  
 - **Neural Networks**: Optimized particle positioning models for acoustophoretic displays(R²: 0.9999)  
 
-## 🏎️ Passion Projects
-- **F1 Data Analysis**: Building race analytics pipelines (Python + Databricks)  
-- **Fiber Arts**: Crocheting data-inspired patterns (SQL scarves, Python-themed embroidery)   [![Medium](https://img.shields.io/badge/Medium-The_SQL_Scarf_Project-black)](https://medium.com/@nimishavernekar/select-from-scarves-or-where-warmth-true-ca48c7101ed1)  
+## 📊 Passion Projects
+🏎️  **F1 Data Analysis**: Building race analytics pipelines (Python + Databricks)  [![Open in Databricks](https://img.shields.io/badge/Launch-Databricks_Notebook-FF3621?logo=databricks)](https://github.com/nimavernekar/f1-databricks-analysis)  
+🧣 **Fiber Arts**: Crocheting data-inspired patterns (SQL scarves, Python-themed embroidery)   [![Medium](https://img.shields.io/badge/Medium-The_SQL_Scarf_Project-black)](https://medium.com/@nimishavernekar/select-from-scarves-or-where-warmth-true-ca48c7101ed1)  
 ## 📚 Education
 - **M.Sc Computer Science** - University of Bayreuth  
 - **B.E Computer Engineering** - Pune University  
