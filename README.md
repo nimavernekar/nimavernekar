@@ -37,7 +37,7 @@
 
 ## 🏎️ Passion Projects
 - **F1 Data Analysis**: Building race analytics pipelines (Python + Databricks)  
-- **Fiber Arts**: Crocheting data-inspired patterns (SQL scarves, Python-themed embroidery)  
+- **Fiber Arts**: Crocheting data-inspired patterns (SQL scarves, Python-themed embroidery)  [![Medium](https://medium.com/@nimishavernekar/select-from-scarves-or-where-warmth-true-ca48c7101ed1)
 
 ## 📚 Education
 - **M.Sc Computer Science** - University of Bayreuth  
