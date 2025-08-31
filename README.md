@@ -37,7 +37,7 @@
 
 ## 📊 Passion Projects
 🏎️  **F1 Data Analysis**: Building race analytics pipelines (Python + Databricks)  [![Github](https://img.shields.io/badge/Launch-Databricks_Notebook-FF3621?logo=github)](https://github.com/nimavernekar/f1-databricks-analysis)  
-🧣 **Fiber Arts**: Crocheting data-inspired patterns (SQL scarves, Python-themed embroidery)   [![Medium](https://img.shields.io/badge/Medium-The_SQL_Scarf_Project-yellow)](https://medium.com/@nimishavernekar/select-from-scarves-or-where-warmth-true-ca48c7101ed1)  
+🧣 **Fiber Arts**: Crocheting data-inspired patterns (SQL scarves, Python-themed embroidery)   [![Medium](https://img.shields.io/badge/Medium-The_SQL_Scarf_Project-white)](https://medium.com/@nimishavernekar/select-from-scarves-or-where-warmth-true-ca48c7101ed1)  
 ## 📚 Education
 - **M.Sc Computer Science** - University of Bayreuth  
 - **B.E Computer Engineering** - Pune University  
@@ -45,9 +45,9 @@
 ---
 
 ## ✍️ Blog Topics I’m Exploring  
-*(Coming soon to Medium/Dev.to!)*  
-1. **“How I Visualized F1 Pit Stops Using Python and FastF1”**  
-2. **“From Yarn to SQL: Knitting a Data Engineer’s Creative Process”**  
+
+1. **“ETL vs ELT: The Real Difference (And Why It Matters More Than You Think)”**  [![Medium](https://img.shields.io/badge/Medium-ETL_vs_ELT:_The_Real_Difference-white)](https://medium.com/@nimishavernekar/etl-vs-elt-the-real-difference-and-why-it-matters-more-than-you-think-2c3622a54cff)
+2. **“SQL Superpowers⚡ LEAD & LAG: See the Future & the Past in One Query”**  [![Medium](https://img.shields.io/badge/Medium-LEAD_&_LAG:_See_the_Future_&_the_Past_in_One_Query-white)](https://medium.com/p/4e5dfde05d18)
 
 ---
 
